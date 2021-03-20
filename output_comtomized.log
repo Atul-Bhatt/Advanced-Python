@@ -1,0 +1,6 @@
+03/20/2021 08:28:33 AM: DEBUG: main Line:22 This is a debug message.
+03/20/2021 08:28:33 AM: INFO: main Line:23 This is an info message.
+03/20/2021 08:28:33 AM: WARNING: main Line:24 This is a warning message.
+03/20/2021 08:28:33 AM: ERROR: main Line:25 This is an error message.
+03/20/2021 08:28:33 AM: CRITICAL: main Line:26 This is a critical message.
+03/20/2021 08:28:33 AM: DEBUG: anotherFunction Line:6 This is another function.
